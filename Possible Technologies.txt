@@ -1,0 +1,34 @@
+Presentation Layer:
+-> HTML5
+-> CSS3
+-> JavaScript
+-> JSF
+
+Application Layer:
+-> J2EE
+-> PHP
+-> Ruby
+-> ASP.NET
+-> Perl
+-> Node.js
+
+Adaptation Layer:
+-> Hibernate
+
+Data Layer:
+-> Oracle
+-> PostgresSQL
+-> SQL Server
+-> SQLite
+
+
+Application Server:
+-> GlassFish (Java)
+-> JBoss (Java)
+-> TomEE (Java)
+-> Node.js (JavaScript)
+
+Mobile
+-> Android
+-> Windows Phone
+-> Hybrid (Sencha Touch)
